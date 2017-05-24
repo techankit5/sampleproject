@@ -2,6 +2,7 @@
 
 int main()
 {
-	printf("Welcom");
+	printf("Welcome");
+	printf("added by clone");
 	return 0;
 }
