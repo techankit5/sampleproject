@@ -3,6 +3,6 @@
 int main()
 {
 	printf("Welcome");
-	printf("added by clone");
+	printf("added by master");
 	return 0;
 }
